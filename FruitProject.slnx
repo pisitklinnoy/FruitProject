@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FruitProject.vcxproj" Id="ad7f2982-187f-4642-b112-a7dc0c1546f6" />
+</Solution>
